@@ -1,0 +1,8 @@
+The FID of Korean_gen_model is 2.3120862558399153
+The FID of Arabic_gen_model is 2.280514213509388
+The FID of Spanish_gen_model is 2.389169484441494
+The FID of English_gen_model is 2.4446369026039747
+The FID of Korean_not_gen_model is 2.3007421794956375
+The FID of English_not_gen_model is 2.3435178692535867
+The FID of Spanish_not_gen_model is 2.3006673257909256
+The FID of Arabic_not_gen_model is 2.3549242277811224

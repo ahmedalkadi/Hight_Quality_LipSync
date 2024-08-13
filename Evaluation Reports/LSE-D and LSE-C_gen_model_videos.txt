@@ -1,0 +1,4 @@
+Arabic_gen_model.mp4 7.4505444 6.946064
+English_gen_model.mp4 7.3036866 7.7088923
+Korean_gen_model.mp4 8.0658455 6.2819786
+Spanish_gen_model.mp4 7.7571344 6.3895636
